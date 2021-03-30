@@ -1,0 +1,66 @@
+Test - US 2016 Enterprise
+cloned visit need clarification on it
+https://dell--sit2--visitops.cs15.visual.force.com/apex/VisitDetail?id=a9Ie00000008eKBEAY&sfdc.override=1
+visit for survey
+https://dell--sit2--visitops.cs15.visual.force.com/apex/VisitDetail?id=a9Ie00000008eK6EAI&sfdc.override=1#a9Ie00000008eK6_00NA000000BpvQB_target
+
+inspire 2
+csr
+one account with tracks
+csp it should be manu
+oem it should be auto
+
+
+user data
+SDET_USF SDET_USL
+email id - us@finalcut.com
+
+1) auto approval and auto di
+2) need to verify this error message 
+click on publish 
+"The Partner profile cannot be published until a location has been provided. Please select the location tab and update this section before the Partner profile is published"
+
+3) add location
+4) in search page
+according to partener/tier value it should be displayed
+
+fskhkj@fdshjk.com
+
+verify the comptie
+add fap showcase
+add service comp
+
+PT-0000001000
+PT-0000006435 - Authorized
+PT-0000001024
+PT-0000007035
+PT-0000007662
+
+FAP Partner Accounts in production:
+ OEM 
+test32@partner.com
+Portal123
+Track -https://dell.my.salesforce.com/a9n1B000000hDCF 
+     CSP 
+internalbrservprod@partnerportal.br
+Portal123
+Track - https://dell.my.salesforce.com/a9n1B000000gcO1 
+      SI 
+internalczsiplat@partnerportal.com
+Portal123
+Track - https://dell.my.salesforce.com/a9n1B000000grJz
+     SOL PROV
+internalrusptit@partnerportal.ru  
+Portal123
+Track - https://dell.my.salesforce.com/a9n1B000000gzKTQAY?returnTab=Locations
+      Disti – 
+kongara.r@icloud.com
+Password1
+Track - https://dell.my.salesforce.com/a9n1B000000ghHd?srPos=0&srKp=a9n 
+
+FED Record for PIT testing:
+https://dell.my.salesforce.com/a9n1B000000hHEo
+ 
+
+FAP link to login
+https://partner.dell.com/en-us/partner/utilities/global-site-selector.htm 
